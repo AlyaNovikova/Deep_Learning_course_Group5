@@ -6,7 +6,7 @@
 
 This repository contains the core code for our project.
 
-All auxiliary files are stored on a disk: [link]
+All auxiliary files are stored on a Google Disk: [link]
 
 Additionally, the disk contains the weights of the main models in the `models/` folder and the generated embeddings in the `embeddings/` folder.
 And `screencast/` folder contains files (videos) of the code running.
@@ -24,14 +24,15 @@ And `screencast/` folder contains files (videos) of the code running.
 - Only files for running the necessary training are stored here to save space in memory
 
 #### `Contrastive_comparison/`
+OTHER notebooks for other models are on Google Disk (here just main ones)
 - Notebooks for analyzing the fine-tuned and original SimCSE model
-- 
+
 - `Visualization.ipynb` - Notebook for visualizing embeddings
 - `Create_contrastive_embeddings_sarcasitic_headlines.ipynb` - Notebook for creating embeddings
 - `is_bert_based_finetuning_contrastive.ipynb`
-- `is_bert_large_contrastive.ipynb`
-- `is_synt_bert_based_finetuning_contrastive.ipynb`
-- `is_synt_bert_large_contrastive.ipynb`
+ `is_bert_large_contrastive.ipynb`
+ `is_synt_bert_based_finetuning_contrastive.ipynb`
+ `is_synt_bert_large_contrastive.ipynb` - 
 Notebooks for running tests on the original and fine-tuned SimCSE models on headlines dataset, cross-domain, with and without synthetic data
 
 #### `Sentence_bert_finetuning/`
