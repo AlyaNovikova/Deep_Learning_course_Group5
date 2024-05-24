@@ -6,7 +6,7 @@
 
 This repository contains the core code for our project.
 
-All auxiliary files are stored on a Google Disk: [link]
+All auxiliary files are stored on a Google Disk: [[link](https://drive.google.com/drive/folders/1AoAYGbewv98TWp50San3pHverXarySXy?usp=sharing)]
 
 Additionally, the disk contains the weights of the main models in the `models/` folder and the generated embeddings in the `embeddings/` folder.
 And `screencast/` folder contains files (videos) of the code running.
